@@ -1,10 +1,11 @@
 export const globalOptions = {
-  name: "newappinstallmodules12-38",
-  url: "https://newappinstallmodules12-38.botics.co",
-  api: "https://newappinstallmodules12-38.botics.co/api/v1",
-  screenOptions: {
-    headerShown: false
-  }
+  "name": "newappinstallmodules12-38",
+  "url": "https://newappinstallmodules12-38.botics.co",
+  "api": "https://newappinstallmodules12-38.botics.co/api/v1",
+  "screenOptions": {
+    "headerShown": false
+  },
+  "initialRoute": "about-the-app"
 };
 export const modulesOptions = {
   "@modules/app-menu": {
